@@ -213,7 +213,7 @@ Transaction behavior analysis.
 
 ## Executive Overview
 
-![Executive Overview]("C:\Users\HP\OneDrive\Desktop\Banking-Customer-Analytics-SQL-PowerBI\Dashboard\Executive _Overview.png")
+![Executive Overview](Executive _Overview.png)
 
 ---
 
