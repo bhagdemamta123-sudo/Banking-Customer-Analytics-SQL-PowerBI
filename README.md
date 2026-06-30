@@ -231,7 +231,7 @@ Transaction behavior analysis.
 
 ## Transaction Analysis
 
-![Transaction Analysis](Images/Trans_Analysis.png)
+![Trans Analysis](Images/Trans_Analysis.png)
 
 ---
 
