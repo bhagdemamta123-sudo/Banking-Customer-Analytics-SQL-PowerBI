@@ -213,25 +213,25 @@ Transaction behavior analysis.
 
 ## Executive Overview
 
-![Executive Overview](Executive _Overview.png)
+![Executive Overview](Images/Executive_Overview.png)
 
 ---
 
 ## Customer Analysis
 
-![Customer Analysis](Images/dashboard2.png)
+![Customer Analysis](Images/Customer_Analysis.png)
 
 ---
 
 ## Loan Analysis
 
-![Loan Analysis](Images/dashboard3.png)
+![Loan Analysis](Images/Loan_Analysis.png)
 
 ---
 
 ## Transaction Analysis
 
-![Transaction Analysis](Images/dashboard4.png)
+![Transaction Analysis](Images/Transaction_analysis.png)
 
 ---
 
