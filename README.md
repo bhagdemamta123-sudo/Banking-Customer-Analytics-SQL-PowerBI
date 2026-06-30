@@ -55,10 +55,10 @@ Banking-Customer-Analytics-SQL-PowerBI
 │     trans.csv
 │
 ├── Images
-│     dashboard1.png
-│     dashboard2.png
-│     dashboard3.png
-│     dashboard4.png
+│     Executive_Overview.png
+│     Customer_Analysis.png
+│     Loan_Analysis.png
+│     Transaction_analysis.png
 │
 └── README.md
 ```
