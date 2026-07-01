@@ -237,6 +237,8 @@ Transaction behavior analysis.
 
 ## ER Diagram 
 
+![ER Diagram](Images/ER_Diagram.png)
+
 
 # 🚀 Key Skills Demonstrated
 
