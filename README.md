@@ -268,9 +268,3 @@ GitHub: *(https://github.com/bhagdemamta123-sudo)*
 LinkedIn: *(https://www.linkedin.com/in/mamta-bhagde-70732833b)*
 
 ---
-A few suggestions to make it even more professional
-Add an ER diagram to your Images folder (for example, ER_Diagram.png) and include it in the README under the "Database Design" section.
-Replace the dashboard image placeholders with screenshots exported from Power BI.
-Include your GitHub and LinkedIn profile links once the repository is public.
-
-This structure is suitable for showcasing on GitHub and is at the level expected for a strong entry-level Data Analyst portfolio project.
