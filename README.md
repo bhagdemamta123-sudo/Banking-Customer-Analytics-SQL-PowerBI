@@ -58,7 +58,7 @@ Banking-Customer-Analytics-SQL-PowerBI
 │     Executive_Overview.png
 │     Customer_Analysis.png
 │     Loan_Analysis.png
-│     Transaction_analysis.png
+│     Trans_analysis.png
 │
 └── README.md
 ```
@@ -263,9 +263,9 @@ Transaction behavior analysis.
 
 Data Analyst | SQL | PostgreSQL | Power BI | Excel
 
-GitHub: *(Add your GitHub Profile)*
+GitHub: *(https://github.com/bhagdemamta123-sudo)*
 
-LinkedIn: *(Add your LinkedIn Profile)*
+LinkedIn: *(https://www.linkedin.com/in/mamta-bhagde-70732833b)*
 
 ---
 A few suggestions to make it even more professional
